@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>natur on erik alvner // kallmoraberget</title>
+    <link>http://localhost:1313/natur/</link>
+    <description>Recent content in natur on erik alvner // kallmoraberget</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 25 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/natur/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>slovenien</title>
+      <link>http://localhost:1313/natur/slovenien/</link>
+      <pubDate>Sun, 25 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/natur/slovenien/</guid><media:content url="http://localhost:1313/natur/slovenien/feature_hu12004108697734094779.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/natur/slovenien/feature_hu12004108697734094779.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+  </channel>
+</rss>

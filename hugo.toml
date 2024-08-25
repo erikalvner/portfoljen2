@@ -1,4 +1,4 @@
-baseURL = 'https://portfolj.kallmoraberget.com/'
+baseURL = 'https://kallmoraberget.com/'
 languageCode = 'en-us'
 title = 'erik alvner // portfolj // kallmoraberget'
 theme = 'hugo-theme-gallery-main'

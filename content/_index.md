@@ -1,7 +1,7 @@
 ---
 description: 
 #lastmod: 2023-08-25
-title: portfölj
+title: 
 featured_image: 
 menus:
   main:

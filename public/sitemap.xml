@@ -2,24 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/natur/</loc>
+    <loc>http://localhost:1313/band-akter/baldnblondie/</loc>
     <lastmod>2024-08-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/band-akter/</loc>
     <lastmod>2024-08-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/monokrom-vardag/</loc>
-  </url><url>
-    <loc>http://localhost:1313/band-akter/baldnblondie/</loc>
-    <lastmod>2024-08-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/natur/slovenien/</loc>
-    <lastmod>2024-08-25T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/flerval/</loc>
     <lastmod>2024-08-25T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/natur/</loc>
+    <lastmod>2024-08-25T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/</loc>
+    <lastmod>2024-08-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/natur/slovenien/</loc>
     <lastmod>2024-08-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/flerval/val1/</loc>
@@ -32,7 +30,15 @@
   </url><url>
     <loc>http://localhost:1313/imprint/</loc>
   </url><url>
+    <loc>http://localhost:1313/fest-event/</loc>
+  </url><url>
+    <loc>http://localhost:1313/kostymdrama/</loc>
+  </url><url>
+    <loc>http://localhost:1313/monokrom-vardag/</loc>
+  </url><url>
     <loc>http://localhost:1313/about/</loc>
+  </url><url>
+    <loc>http://localhost:1313/portratt/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
   </url>

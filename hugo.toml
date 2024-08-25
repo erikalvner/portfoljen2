@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://portfolj.kallmoraberget.com/'
 languageCode = 'en-us'
-title = 'erik alvner // kallmoraberget'
+title = 'erik alvner // portfolj // kallmoraberget'
 theme = 'hugo-theme-gallery-main'

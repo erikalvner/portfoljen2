@@ -1,7 +1,7 @@
 ---
 description: 
 featured_image: 
-sort_by: 
+sort_by: name
 sort_order: desc
 title: fest // event
 type: gallery

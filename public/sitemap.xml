@@ -41,7 +41,5 @@
     <loc>http://localhost:1313/portratt/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
-  </url><url>
-    <loc>http://localhost:1313/vardag-farg/</loc>
   </url>
 </urlset>

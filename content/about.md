@@ -16,14 +16,4 @@ erik@kallmoraberget.com
 
 www.t.me/kallmoraberget
 
----
----
----
----
----
----
----
----
----
 
-*för att få hemsidan att fungera har jag varit tvungen att komprimera samtliga bilder. zoomar ni in på dem syns tydliga jpeg-artefakter. **detta är unikt för hemsidan** och gäller inte foton jag tar på beställning.*

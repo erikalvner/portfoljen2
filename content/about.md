@@ -7,7 +7,9 @@ menu:
     weight: 90
 ---
 
-belägen i uppsala. fotar endast analogt. kontakt sker på mejl eller telegram.
+belägen i uppsala. fotar endast analogt. färgbilderna under fest//event är dock tagna digitalt.
+
+kontakt sker på mejl eller telegram.
 
 erik@kallmoraberget.com
 

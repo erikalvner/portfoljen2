@@ -9,11 +9,8 @@ menu:
 
 belägen i uppsala. fotar endast analogt. färgbilderna under fest//event är dock tagna digitalt.
 
-kontakt sker på mejl eller telegram.
+kontakt sker per e-post
 
 erik@kallmoraberget.com
-
-
-www.t.me/kallmoraberget
 
 

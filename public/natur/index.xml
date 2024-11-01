@@ -16,5 +16,14 @@
           &lt;img src=&quot;http://localhost:1313/natur/slovenien/feature_hu12004108697734094779.jpg&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
+    <item>
+      <title>trädgårdar</title>
+      <link>http://localhost:1313/natur/tr%C3%A4dg%C3%A5rdar/</link>
+      <pubDate>Sun, 25 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/natur/tr%C3%A4dg%C3%A5rdar/</guid><media:content url="http://localhost:1313/natur/tr%C3%A4dg%C3%A5rdar/pumpkin_hu592620356606529136.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/natur/tr%C3%A4dg%C3%A5rdar/pumpkin_hu592620356606529136.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
   </channel>
 </rss>

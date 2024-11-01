@@ -20,6 +20,9 @@
     <loc>http://localhost:1313/natur/slovenien/</loc>
     <lastmod>2024-08-25T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/natur/tr%C3%A4dg%C3%A5rdar/</loc>
+    <lastmod>2024-08-25T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/flerval/val1/</loc>
     <lastmod>2024-08-25T00:00:00+00:00</lastmod>
   </url><url>
@@ -33,6 +36,8 @@
     <loc>http://localhost:1313/fest-event/</loc>
   </url><url>
     <loc>http://localhost:1313/kostymdrama/</loc>
+  </url><url>
+    <loc>http://localhost:1313/mina-kameror/</loc>
   </url><url>
     <loc>http://localhost:1313/monokrom-vardag/</loc>
   </url><url>

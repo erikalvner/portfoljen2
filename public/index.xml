@@ -8,40 +8,21 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 25 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>bald // blondie</title>
-      <link>http://localhost:1313/band-akter/baldnblondie/</link>
-      <pubDate>Sun, 25 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/band-akter/baldnblondie/</guid><media:content url="http://localhost:1313/band-akter/baldnblondie/outputt-0_hu17611705792216258830.jpg" type="image/jpeg"/>
-        <description>
-          &lt;img src=&quot;http://localhost:1313/band-akter/baldnblondie/outputt-0_hu17611705792216258830.jpg&quot; /&gt;
-          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
-        </description></item>
-    <item>
-      <title>slovenien</title>
-      <link>http://localhost:1313/natur/slovenien/</link>
-      <pubDate>Sun, 25 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/natur/slovenien/</guid><media:content url="http://localhost:1313/natur/slovenien/feature_hu12004108697734094779.jpg" type="image/jpeg"/>
-        <description>
-          &lt;img src=&quot;http://localhost:1313/natur/slovenien/feature_hu12004108697734094779.jpg&quot; /&gt;
-          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
-        </description></item>
-    <item>
-      <title>val1</title>
-      <link>http://localhost:1313/flerval/val1/</link>
-      <pubDate>Sun, 25 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/flerval/val1/</guid><description>&lt;no value&gt;</description></item>
-    <item>
-      <title>val2</title>
-      <link>http://localhost:1313/flerval/val2/</link>
-      <pubDate>Sun, 25 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/flerval/val2/</guid><description>&lt;no value&gt;</description></item>
-    <item>
       <title>fest // event</title>
       <link>http://localhost:1313/fest-event/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/fest-event/</guid><media:content url="http://localhost:1313/fest-event/utkomst-1_hu12027200536342172685.jpg" type="image/jpeg"/>
         <description>
           &lt;img src=&quot;http://localhost:1313/fest-event/utkomst-1_hu12027200536342172685.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>porträtt</title>
+      <link>http://localhost:1313/portratt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/portratt/</guid><media:content url="http://localhost:1313/portratt/feature_hu6721076794857802758.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/portratt/feature_hu6721076794857802758.jpg&quot; /&gt;
           &lt;p&gt;&lt;/p&gt;
         </description></item>
     <item>
@@ -63,13 +44,50 @@
           &lt;p&gt;&lt;/p&gt;
         </description></item>
     <item>
-      <title>porträtt</title>
-      <link>http://localhost:1313/portratt/</link>
+      <title>mina kameror</title>
+      <link>http://localhost:1313/mina-kameror/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/portratt/</guid><media:content url="http://localhost:1313/portratt/feature_hu6721076794857802758.jpg" type="image/jpeg"/>
+      <guid>http://localhost:1313/mina-kameror/</guid><media:content url="http://localhost:1313/mina-kameror/suzukipressvan_hu15108509329168937808.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;http://localhost:1313/portratt/feature_hu6721076794857802758.jpg&quot; /&gt;
+          &lt;img src=&quot;http://localhost:1313/mina-kameror/suzukipressvan_hu15108509329168937808.jpg&quot; /&gt;
           &lt;p&gt;&lt;/p&gt;
         </description></item>
+    <item>
+      <title>bald // blondie</title>
+      <link>http://localhost:1313/band-akter/baldnblondie/</link>
+      <pubDate>Sun, 25 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/band-akter/baldnblondie/</guid><media:content url="http://localhost:1313/band-akter/baldnblondie/outputt-0_hu17611705792216258830.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/band-akter/baldnblondie/outputt-0_hu17611705792216258830.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>slovenien</title>
+      <link>http://localhost:1313/natur/slovenien/</link>
+      <pubDate>Sun, 25 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/natur/slovenien/</guid><media:content url="http://localhost:1313/natur/slovenien/feature_hu12004108697734094779.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/natur/slovenien/feature_hu12004108697734094779.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>trädgårdar</title>
+      <link>http://localhost:1313/natur/tr%C3%A4dg%C3%A5rdar/</link>
+      <pubDate>Sun, 25 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/natur/tr%C3%A4dg%C3%A5rdar/</guid><media:content url="http://localhost:1313/natur/tr%C3%A4dg%C3%A5rdar/pumpkin_hu592620356606529136.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/natur/tr%C3%A4dg%C3%A5rdar/pumpkin_hu592620356606529136.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>val1</title>
+      <link>http://localhost:1313/flerval/val1/</link>
+      <pubDate>Sun, 25 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/flerval/val1/</guid><description>&lt;no value&gt;</description></item>
+    <item>
+      <title>val2</title>
+      <link>http://localhost:1313/flerval/val2/</link>
+      <pubDate>Sun, 25 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/flerval/val2/</guid><description>&lt;no value&gt;</description></item>
   </channel>
 </rss>

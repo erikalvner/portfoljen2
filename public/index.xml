@@ -8,12 +8,39 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 25 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>fest // event</title>
-      <link>http://localhost:1313/fest-event/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/fest-event/</guid><media:content url="http://localhost:1313/fest-event/utkomst-1_hu12027200536342172685.jpg" type="image/jpeg"/>
+      <title>fest i svartvitt</title>
+      <link>http://localhost:1313/fest-event/fest-sv/</link>
+      <pubDate>Sun, 25 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fest-event/fest-sv/</guid><media:content url="http://localhost:1313/fest-event/fest-sv/utkomst-5_hu2027599092410918165.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;http://localhost:1313/fest-event/utkomst-1_hu12027200536342172685.jpg&quot; /&gt;
+          &lt;img src=&quot;http://localhost:1313/fest-event/fest-sv/utkomst-5_hu2027599092410918165.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>fest i färg</title>
+      <link>http://localhost:1313/fest-event/fest-f%C3%A4rg/</link>
+      <pubDate>Sun, 25 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fest-event/fest-f%C3%A4rg/</guid><media:content url="http://localhost:1313/fest-event/fest-f%C3%A4rg/utputt-8_hu7994494255578583398.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/fest-event/fest-f%C3%A4rg/utputt-8_hu7994494255578583398.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>kostymdrama</title>
+      <link>http://localhost:1313/fest-event/kostymdrama/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fest-event/kostymdrama/</guid><media:content url="http://localhost:1313/fest-event/kostymdrama/feature_hu3951310468056716471.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/fest-event/kostymdrama/feature_hu3951310468056716471.jpg&quot; /&gt;
+          &lt;p&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>event</title>
+      <link>http://localhost:1313/fest-event/event/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fest-event/event/</guid><media:content url="http://localhost:1313/fest-event/event/utputt-0_hu347906732081080245.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/fest-event/event/utputt-0_hu347906732081080245.jpg&quot; /&gt;
           &lt;p&gt;&lt;/p&gt;
         </description></item>
     <item>
@@ -23,15 +50,6 @@
       <guid>http://localhost:1313/portratt/</guid><media:content url="http://localhost:1313/portratt/feature_hu6721076794857802758.jpg" type="image/jpeg"/>
         <description>
           &lt;img src=&quot;http://localhost:1313/portratt/feature_hu6721076794857802758.jpg&quot; /&gt;
-          &lt;p&gt;&lt;/p&gt;
-        </description></item>
-    <item>
-      <title>kostymdrama</title>
-      <link>http://localhost:1313/kostymdrama/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/kostymdrama/</guid><media:content url="http://localhost:1313/kostymdrama/feature_hu3951310468056716471.jpg" type="image/jpeg"/>
-        <description>
-          &lt;img src=&quot;http://localhost:1313/kostymdrama/feature_hu3951310468056716471.jpg&quot; /&gt;
           &lt;p&gt;&lt;/p&gt;
         </description></item>
     <item>

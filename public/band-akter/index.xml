@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>band // akter on // erik alvner // portfölj //</title>
-    <link>http://localhost:35863/band-akter/</link>
+    <link>http://localhost:1313/band-akter/</link>
     <description>Recent content in band // akter on // erik alvner // portfölj //</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 25 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:35863/band-akter/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 25 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/band-akter/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>bald // blondie</title>
-      <link>http://localhost:35863/band-akter/baldnblondie/</link>
+      <link>http://localhost:1313/band-akter/baldnblondie/</link>
       <pubDate>Sun, 25 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:35863/band-akter/baldnblondie/</guid><media:content url="http://localhost:35863/band-akter/baldnblondie/outputt-0_hu17611705792216258830.jpg" type="image/jpeg"/>
+      <guid>http://localhost:1313/band-akter/baldnblondie/</guid><media:content url="http://localhost:1313/band-akter/baldnblondie/outputt-0_hu17611705792216258830.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;http://localhost:35863/band-akter/baldnblondie/outputt-0_hu17611705792216258830.jpg&quot; /&gt;
+          &lt;img src=&quot;http://localhost:1313/band-akter/baldnblondie/outputt-0_hu17611705792216258830.jpg&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
   </channel>

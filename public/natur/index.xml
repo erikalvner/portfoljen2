@@ -2,36 +2,36 @@
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>natur &amp; arkitektur on // erik alvner // portfölj //</title>
-    <link>http://localhost:1313/natur/</link>
+    <link>http://localhost:35863/natur/</link>
     <description>Recent content in natur &amp; arkitektur on // erik alvner // portfölj //</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 25 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/natur/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 25 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:35863/natur/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>arkitektur</title>
-      <link>http://localhost:1313/natur/arkitektur/</link>
+      <link>http://localhost:35863/natur/arkitektur/</link>
       <pubDate>Sun, 25 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/natur/arkitektur/</guid><media:content url="http://localhost:1313/natur/arkitektur/emohouse_hu13855482635014984941.jpg" type="image/jpeg"/>
+      <guid>http://localhost:35863/natur/arkitektur/</guid><media:content url="http://localhost:35863/natur/arkitektur/emohouse_hu13855482635014984941.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;http://localhost:1313/natur/arkitektur/emohouse_hu13855482635014984941.jpg&quot; /&gt;
+          &lt;img src=&quot;http://localhost:35863/natur/arkitektur/emohouse_hu13855482635014984941.jpg&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
     <item>
       <title>slovenien</title>
-      <link>http://localhost:1313/natur/slovenien/</link>
+      <link>http://localhost:35863/natur/slovenien/</link>
       <pubDate>Sun, 25 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/natur/slovenien/</guid><media:content url="http://localhost:1313/natur/slovenien/feature_hu12004108697734094779.jpg" type="image/jpeg"/>
+      <guid>http://localhost:35863/natur/slovenien/</guid><media:content url="http://localhost:35863/natur/slovenien/feature_hu12004108697734094779.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;http://localhost:1313/natur/slovenien/feature_hu12004108697734094779.jpg&quot; /&gt;
+          &lt;img src=&quot;http://localhost:35863/natur/slovenien/feature_hu12004108697734094779.jpg&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
     <item>
       <title>trädgårdar</title>
-      <link>http://localhost:1313/natur/tr%C3%A4dg%C3%A5rdar/</link>
+      <link>http://localhost:35863/natur/tr%C3%A4dg%C3%A5rdar/</link>
       <pubDate>Sun, 25 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/natur/tr%C3%A4dg%C3%A5rdar/</guid><media:content url="http://localhost:1313/natur/tr%C3%A4dg%C3%A5rdar/balkong_hu4112889451377363427.jpg" type="image/jpeg"/>
+      <guid>http://localhost:35863/natur/tr%C3%A4dg%C3%A5rdar/</guid><media:content url="http://localhost:35863/natur/tr%C3%A4dg%C3%A5rdar/balkong_hu4112889451377363427.jpg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;http://localhost:1313/natur/tr%C3%A4dg%C3%A5rdar/balkong_hu4112889451377363427.jpg&quot; /&gt;
+          &lt;img src=&quot;http://localhost:35863/natur/tr%C3%A4dg%C3%A5rdar/balkong_hu4112889451377363427.jpg&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
   </channel>

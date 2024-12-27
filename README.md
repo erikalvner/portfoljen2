@@ -1,11 +1,5 @@
-# Example site for hugo-theme-gallery
+# Photography portfolio 
 
-## Installation
+## Built in HUGO using the HUGO Gallery theme
 
-```
-# Install Hugo module
-hugo mod get
-
-# Pull example images from Unsplash
-./pull-images.sh
-```
+HUGO site showcasing my photography using the HUGO Gallery theme.
